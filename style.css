@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	padding: 0;
+	margin: 0;
+	background: url("black_background_2-wallpaper-1600x900.jpg");
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+
+
+.header h1{
+	text-align: center;
+	font-weight: bold;
+	color: aliceblue;
+}
+
+.wid{
+	width: 40%;
+	margin: 50px 0 0 325px;
+	text-align: center;
+	color: aliceblue;
+	font-weight: bold;
+}
+
+
+.spc{
+	padding: 20px;
+}
+
+.widd{
+	margin: 20px 0 0 150px;
+	color: aliceblue;
+}
+
+.spc:hover{
+	background: #228DA8;
+}
